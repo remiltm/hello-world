@@ -1,2 +1,2 @@
 # hello-world
-First repo in Github using Conestoga student credentials
+I believe this course will help me fill the gaps in my knowledge about HTML and CSS. Also, the program will be a refresher for me, allowing me to revisit the fundamentals and strengthen them. I believe this course will help me in my final project a lot.
